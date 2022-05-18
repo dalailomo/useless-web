@@ -248,6 +248,9 @@ Yes, it was the orange button again. This joke is getting old already...
 
 Then when creating the behaviour, we need to focus on two places, first on the Path pattern, we add the `*`, because we want it everywhere, and in the origin groups we just select our bucket. And then in the function association, we just say we want to use our function on a viewer request.
 
+![image](https://user-images.githubusercontent.com/6674841/169171492-02cc724f-be23-4198-bd9a-f4e4f4b5965c.png)
+
+
 ## TESTING THE STUFF
 
 So we are basically done, now we only need to test if we can see our image by accessing through the domain name.
