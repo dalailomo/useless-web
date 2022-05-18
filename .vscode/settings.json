@@ -1,0 +1,8 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "liveServer.settings.root": "dist/",
+    "[xml]": {
+        "editor.defaultFormatter": "DotJoshJohnson.xml"
+    }
+}
