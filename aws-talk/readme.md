@@ -30,12 +30,12 @@ AWS Certificate Manager is a service that lets you easily provision, manage, and
 
 ## How is this tutorial structured
 
-1. We will tackle what is the required configuration for our Nuxt Site
-2. We will purchase a domain using Route 53
-3. We will create a certificate using Amazon Certificate Manager
-4. Then we will validate the domain against ACM
-5. We will create a bucket to store the static web content
-6. And lastly, we will create two distributions that will connect all the the things (one of the distributions will only be responsible for redirecting from www to a naked domain)
+1. We will purchase a domain using Route 53
+1. We will create a certificate using Amazon Certificate Manager
+1. Then we will validate the domain against ACM
+1. We will create a bucket to store the static web content
+1. We will create two distributions that will connect all the the things (one of the distributions will only be responsible for redirecting from www to a naked domain)
+1. And lastly, we will tackle what is the required configuration for our Nuxt Site
 
 ## Domain (Route 53)
 
