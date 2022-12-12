@@ -138,7 +138,7 @@ Here is the JSON code, for better copypastingment:
 
 ```json
 {
-  "Version": "2012-20-17",
+  "Version": "2012-10-17",
   "Statement": [
     {
       "Sid": "PublicReadGetObject",
